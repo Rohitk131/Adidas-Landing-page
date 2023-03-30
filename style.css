@@ -58,7 +58,7 @@ main{
 }
 .left{
     width: 45%;
-    font-family:poppins;
+    font-family:'poppins';
     font-weight: normal;
     margin: 0;
 }
